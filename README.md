@@ -1,10 +1,10 @@
 # Hello 🦀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolybelnikov)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolybelnikov&show_icons=true&theme=tokyonight)
 
 My name is Andrey and I'm a developer from Amsterdam, the Netherlands.
 
-[![Here are my GitHub stats](https://github-readme-stats.vercel.app/api?username=akolybelnikov)](https://github.com/akolybelnikov/github-readme-stats)
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=akolybelnikov&show_icons=true&theme=tokyonight)
 
 
 
