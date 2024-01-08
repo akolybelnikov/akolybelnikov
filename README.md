@@ -2,9 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolybelnikov&show_icons=true&theme=synthwave)
 
-My name is Andrey and I'm a developer from Amsterdam, the Netherlands.
+My name is Andrei and I'm a developer from Amsterdam, the Netherlands.
 
-![Andrey's GitHub stats](https://github-readme-stats-akolybelnikov.vercel.app/api?username=akolybelnikov&show_icons=true&theme=synthwave)
+![Andrei's GitHub stats](https://github-readme-stats-akolybelnikov.vercel.app/api?username=akolybelnikov&show_icons=true&theme=synthwave)
 
 
 
