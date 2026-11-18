@@ -10,7 +10,7 @@ My name is Andrei and I'm a developer from Amsterdam and Herakleon.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/akolybelnikov">
+    <a href="https://www.linkedin.com/in/reddree">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
